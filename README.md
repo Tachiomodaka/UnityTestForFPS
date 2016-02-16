@@ -1,2 +1,3 @@
-# UnityTestForFPS
-MySchoolDesk
+# Unity Test For FPS
+英語は頑張って読みます。これもたどたどしくなりますが英語とスペイン語が他より読みやすいかも。
+ここはわたしの勉強机です。タイトルどおりUnityで撃ち合いのゲームを作る練習をします。
